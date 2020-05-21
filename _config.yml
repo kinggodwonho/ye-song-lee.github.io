@@ -17,8 +17,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Ye-Song-Lee Blog
+  tagline: Software Student
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -26,9 +26,7 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    github:  ye-song-lee
     rss: rss
  
 
